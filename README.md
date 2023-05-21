@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
 <h3 align="center">Data Science Enthusiast</h3>
-<img align="right" alt="coding" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95275ce6a0cf61fd64640b5636e746addc7b756785c&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95275ce6a0cf61fd64640b5636e746addc7b756785c&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu3721&label=Profile%20views&color=0e75b6&style=flat" alt="anshu3721" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
