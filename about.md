@@ -1,5 +1,5 @@
-<!-- ![logo](https://github.com/Anshu3721/Anshu3721/blob/main/banner.jpg) -->
-<img align="center" width="1100" height="500" src="https://github.com/Anshu3721/Anshu3721/blob/main/banner.jpg">
+![logo](https://github.com/Anshu3721/Anshu3721/blob/main/banner1.jpg)
+<!-- <img align="center" width="1100" height="500" src="https://github.com/Anshu3721/Anshu3721/blob/main/banner1.jpg"> -->
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 <img align="right" alt="coding" width="400px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95275ce6a0cf61fd64640b5636e746addc7b756785c&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">
