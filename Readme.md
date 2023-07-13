@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://anshu3721.netlify.app](https://anshu3721.netlify.app)
+- 👨‍💻 All of my projects are available at [anshukumar.tech](https://anshukumar.tech/)
 
 - 📝 I regularly write articles on [https://medium.com/@anshukumar.3721](https://medium.com/@anshukumar.3721)
 
