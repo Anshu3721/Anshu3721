@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [anshukumar.tech](https://anshukumar.tech/)
-
 - 📝 I regularly write articles on [https://medium.com/@anshukumar.3721](https://medium.com/@anshukumar.3721)
 
 - 📫 How to reach me **anshukumar3721@gmail.com**
